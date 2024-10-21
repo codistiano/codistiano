@@ -29,7 +29,7 @@ I'm a Full-Stack Developer with a passion for creating scalable, efficient, and 
 ## 🔥 Featured Projects
 
 - [Questrack](https://github.com/codistiano/questrack) — A journaling app to track challenge progress.
-- [YelpCamp](https://github.com/codistiano/otherproject) — Brief description here.
+- [YelpCamp](https://github.com/codistiano/otherproject) — An app that people get to find their next camping place.
 
 ## 📊 Contribution Graph
 
